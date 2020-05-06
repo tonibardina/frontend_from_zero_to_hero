@@ -1,4 +1,7 @@
-# Install VSCODE
+# What is an IDE?
+Basically it is an application that make developers like much easier with some cool features like *linting* or *intellisense*.
+
+## Install VSCODE
 
 [CLICK HERE to install VSCode](https://code.visualstudio.com/)
 
