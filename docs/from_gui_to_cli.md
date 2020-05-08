@@ -7,7 +7,8 @@
 ## Intro
 
 We can say at a basic level that all the content of our operating system is stored in folders, so navigate through the command line its basically go from folder to folder.
-To do that we need to use commands, these commands could be related to the path where we are, e.g ~/Desktop/myFolder, or could be commands specified as global commands, so we can call it from anywhere.
+To do that we need to use commands, these commands could be related to the path where we are, e.g ~/Desktop/myFolder, or could be commands specified as global commands, so we can call it from everywhere.
+
 
 ## Basic commands
 
