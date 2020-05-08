@@ -28,4 +28,4 @@ See => https://devhints.io/bash
 * Go to Desktop folder
 * List all content of the folder
 * Create a Folder named "Projects"
-* Clone this repo on inside the Projects folder
+* Clone this repo inside the Projects folder
