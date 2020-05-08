@@ -21,3 +21,11 @@ See => https://devhints.io/bash
 * **rm** -> Delete file
 * **ls** -> List all files and folders inside current one
 
+
+## Exercise
+
+* Open your CLI
+* Go to Desktop folder
+* List all content of the folder
+* Create a Folder named "Projects"
+* Clone this repo on inside the Projects folder

@@ -5,9 +5,12 @@
 - [Become a frontend developer from zero to HERO](#become-a-frontend-developer-from-zero-to-hero)
   - [Follow the course in instagram @codegists](#follow-the-course-in-instagram-codegists)
     - [Chapter I](#chapter-i)
+    - [Chapter II](#chapter-ii)
 
 # Become a frontend developer from zero to HERO
 ## Follow the course in instagram @codegists
 
 ### Chapter I 
 [WHAT IS AN IDE?](./docs/what_is_an_ide.md)
+### Chapter II 
+[FROM GUI TO CLI](./docs/from_gui_to_cli.md)
