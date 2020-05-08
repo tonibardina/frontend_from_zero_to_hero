@@ -1,5 +1,5 @@
 # What is an IDE?
-Basically it is an application that make developers like much easier with some cool features like *linting* or *intellisense*.
+Basically it is an application that make developers live much easier with some cool features like *linting* or *intellisense*.
 
 ## Install VSCODE
 
